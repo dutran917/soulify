@@ -1,0 +1,145 @@
+[
+    {
+      "id" : 1,
+      "name": "Soobin",
+      "src": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/4/2/9/b4292439fdc63154c04a50f56d7da985.jpg",
+      "listTrack" : [
+        {
+          "id" : 1,
+          "name": "Playah",
+          "artist": "Soobin Hoang Son",
+          "src": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/4/2/9/b4292439fdc63154c04a50f56d7da985.jpg",
+          "mp3": "./audio/song1.mp3"
+        },
+        {
+          "id" : 2,
+          "name": "BangtanYEYEYE",
+          "artist": "BTS",
+          "src": "https://upload.wikimedia.org/wikipedia/vi/d/db/BTS_-_Butter.png",
+          "mp3": "/src/component/audio/song2.mp3"
+        },
+        {
+          "id" : 3,
+          "name": "Lay me down",
+          "artist": "Aviici",
+          "src": "https://kenh14cdn.com/thumb_w/660/2019/6/7/jbp5pp4ombx21-1559895461661193146972.png",
+          "mp3": "/src/component/audio/song2.mp3"
+        },
+        {
+          "id" : 4,
+          "name": "Bước Qua Mùa Cô Đơn",
+          "artist": "VU",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vu_monsoon2019.jpg/1200px-Vu_monsoon2019.jpg"
+        },
+        {
+          "id" : 5,
+          "name": "Build a bitch",
+          "artist": "Bella Poarch",
+          "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg"
+        },
+        {
+          "id" : 6,
+          "name": "Dua nhau di tron",
+          "artist": "Den",
+          "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg"
+        }
+    
+      ]
+
+    },
+    {
+      "id" : 2,
+      "name": "BangtanYEYEYE",
+      "src": "https://upload.wikimedia.org/wikipedia/vi/d/db/BTS_-_Butter.png",
+      "listTrack" : [
+        {
+          "id" : 5,
+          "name": "Build a bitch",
+          "artist": "Bella Poarch",
+          "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg"
+        },
+        {
+          "id" : 6,
+          "name": "Dua nhau di tron",
+          "artist": "Den",
+          "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "name": "Avicii 4life",
+      "src": "https://kenh14cdn.com/thumb_w/660/2019/6/7/jbp5pp4ombx21-1559895461661193146972.png",
+      "listTrack" : [
+        {
+          "id" : 5,
+          "name": "Build a bitch",
+          "artist": "Bella Poarch",
+          "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg"
+        },
+        {
+          "id" : 6,
+          "name": "Dua nhau di tron",
+          "artist": "Den",
+          "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "name": "Vũ - Bước Qua Mùa Cô Đơn",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vu_monsoon2019.jpg/1200px-Vu_monsoon2019.jpg",
+      "listTrack" : [
+        {
+          "id" : 5,
+          "name": "Build a bitch",
+          "artist": "Bella Poarch",
+          "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg"
+        },
+        {
+          "id" : 6,
+          "name": "Dua nhau di tron",
+          "artist": "Den",
+          "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "name": "Bella Poarch",
+      "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg",
+      "listTrack" : [
+        {
+          "id" : 5,
+          "name": "Build a bitch",
+          "artist": "Bella Poarch",
+          "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg"
+        },
+        {
+          "id" : 6,
+          "name": "Dua nhau di tron",
+          "artist": "Den",
+          "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg"
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "name": "Đen",
+      "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg",
+      "listTrack" : [
+        {
+          "id" : 5,
+          "name": "Build a bitch",
+          "artist": "Bella Poarch",
+          "src": "https://avatar-ex-swe.nixcdn.com/song/2021/06/09/b/d/a/0/1623223771990_640.jpg"
+        },
+        {
+          "id" : 6,
+          "name": "Dua nhau di tron",
+          "artist": "Den",
+          "src": "https://vtv1.mediacdn.vn/thumb_w/650/2021/5/14/2j3a9577-editc-1620944229636282182804-crop-16210641534952132081719.jpg"
+        }
+      ]
+    }
+  ]
